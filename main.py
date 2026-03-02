@@ -23,7 +23,7 @@ class handler(BaseHTTPRequestHandler):
             return
 
         api1 = f"https://semylikerrr.vercel.app/like?uid={uid}&server_name={server_name}"
-        api2 = f"https://ogxtg.vercel.app/like?uid={uid}&server_name={server_name}"
+        api2 = f"https://oggmrxlikextg.vercel.app/like?uid={uid}&server_name={server_name}"
 
         data1 = {}
         data2 = {}
